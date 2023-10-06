@@ -15,10 +15,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
+    <img src="https://devicon-website.vercel.app/api/redux/original.svg" alt="React" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50">
-    <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" alt="Next.js" width="50" height="50"></img>
+    <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" alt="Next.js" width="50" height="50">
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkr1324&layout=compact)
