@@ -21,4 +21,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50">
 </div>
 
-![danielkr1324's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkr1324&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkr1324&layout=compact)
